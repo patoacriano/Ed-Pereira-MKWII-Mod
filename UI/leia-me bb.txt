@@ -1,0 +1,6 @@
+Caso você queira mudar o nome de Bowser para ednaldo pereira, subtitua os arquivos originais
+ pelos modificados. Você encontrará os arquivos originais em:
+
+\files\Scene\UI
+
+ususários do "My Stuff": jogue os arquivos modificados na raiz da pasta My Stuff e seja feliz :)

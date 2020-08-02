@@ -1,0 +1,15 @@
+Usando o "BrawlBox" ou qualquer outro editor decente, substitua os arquivos originais dentro do "revo_kart.brsar"
+ pelos modificados
+
+Você pode achar a "revo_kart.brsar" em: files\sound\revo_kart.brsar
+
+
+
+!!!ATENÇÃO!!!
+
+Infelizmente, sabemos que o "BrawlBox" é bugado pra cacete, portanto ele não ira salvar seus ".brwsd" de primeira.
+ Porém, por algum motivo ele salva os ".brwsd" se a útima coisa q tu fez foi editar um arquivo . "wav", então
+ EDITE O ARQUIVO [637] POR ÚLTIMO SE QUISER QUE TUDO ESTEJA DEVIDAMENTE SALVO.
+
+
+obrigado pela compreensão e tenha um ótimo dia :p

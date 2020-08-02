@@ -1,0 +1,14 @@
+use o "Brawlbox" ou qualquer outro editor para substituir o original por esses arquivos.
+
+Você pode encontrar os arquivos originais nessas pastas.
+award.szs
+channel.szs
+event.szs
+globe.szs
+menumulti.szs
+menuother.szs
+menusingle.szs
+
+mas a mais relevante é essa:
+
+files\Scene\UI\"race.szs" --> dentro de "race.szs" estará os ícones originais de mapa e outros que você deve trocar.

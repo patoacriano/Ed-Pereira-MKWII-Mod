@@ -1,0 +1,8 @@
+substitua o original por este arquivo.
+
+você pode encontrar o original em:
+
+files\Race\Kart
+
+Caso você esteja usando "My Syuff", simplismente jogue o arquivo modificado
+na raiz da pasta "My Stuff" e seja feliz :)

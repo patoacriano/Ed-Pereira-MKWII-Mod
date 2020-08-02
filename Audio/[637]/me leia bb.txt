@@ -1,0 +1,4 @@
+Usando o BrawlBox ou qualquer outro editor, substitua os arquivos originais que estão no "revo_kart.brsar" por estes ".wav".
+
+revo_kart\[637]GRP.brbnk
+

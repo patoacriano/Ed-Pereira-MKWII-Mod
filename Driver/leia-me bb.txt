@@ -1,0 +1,6 @@
+Usando o "BrawlBox" ou qualquer outro editor decente, substitua o arquivo original localizado em
+"Driver.szs" pelo modificado.
+
+Você pode encontrar o arquivo em:
+
+ files\Scene\Model\"Drive.szs"
